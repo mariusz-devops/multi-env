@@ -1,2 +1,3 @@
 # multi-env
 deploy
+build
