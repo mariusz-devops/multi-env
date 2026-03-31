@@ -1,3 +1,3 @@
 # multi-env
 deploy
-build
+build now
